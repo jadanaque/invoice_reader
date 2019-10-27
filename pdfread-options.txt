@@ -1,0 +1,13 @@
+library(pdftools)
+txt <- pdf_text("http://arxiv.org/pdf/1403.2805.pdf")
+txt <- pdf_text("1403.2805.pdf")  # One string per page
+
+--------------------------------
+library(tabulizer)
+
+out <- extract_tables("fifadat.pdf", output = "data.frame")
+
+pdf_data <- bind_rows(out) %>% 
+  as_tibble() %>%
+  rename()
+---------------------------------

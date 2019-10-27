@@ -1,0 +1,13 @@
+name: demand_supply-pdfs
+title: demand_supply-pdfs
+username:
+account: jadanaque-loreal
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 619735
+bundleId: 1771564
+url: https://jadanaque-loreal.shinyapps.io/demand_supply-pdfs/
+when: 1545162494.26861
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: burgos34015967.csv|burgos34016205.csv|burgos34016281.csv|downloaded_dt.csv|downloaded_dt2.csv|downloaded_dt3.csv|downloaded_dt4.csv|downloaded_dt5.csv|pdf_extractor.R|pdfread-options.txt|rdk0000434111.csv|rdk0000434112.csv|rdk0000434113.csv|testing_progress_bar.R|ZVM03-muestra_anita-noel.csv|ZVM03-muestra_anita-noel.xlsx|pdfs
